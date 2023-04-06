@@ -7,3 +7,5 @@ knowledge = power = (force x distance / time)
 
 # About
 This is my repository of Useful Things.
+
+Any code snippets which I've taken and stored here I will try to attribute back to where I found it.
